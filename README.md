@@ -38,3 +38,17 @@ The significance of NAI's configurable hardware architecture, COSA, was undersco
 ## Conclusion
 
 The autonomous driving implementation with Lidar technology, with the assistance of my mentors and colleagues, proved to be a robust and promising venture. With continuous advancements in Lidar technology, the potential for autonomous driving and various other applications appears promising. The success of this project owes credit to the invaluable support and dedication of my mentors and colleagues, as well as NAI's configurable hardware options. The project underscores the significance of NAI's COSA architecture, offering tailored solutions for specific project requirements, and highlights the potential for autonomous driving with Lidar technology in the future.
+
+## Project Write Up
+**Portfolio Project Report: Implementation of Autonomous Driving with Lidar Technology**
+
+In this portfolio project, with the assistance of my mentors and colleagues from time to time, the focus was on practical and widely-used technology, Lidar, which holds significant applications in both military and civilian contexts. The primary objective was to explore its potential in autonomous driving systems, a domain currently gaining considerable attention. Leveraging available modules specialized in data handling and power generation, the project aimed to achieve feasible and autonomous operations.
+
+Module selection was critical for successful implementation. With guidance from my mentors and input from my colleagues, I chose the MOD-SX2-RS-8CH and the MOD-SX2-DA5-4CH modules, integrated into the 75ARM1[link: https://www.naii.com/Model/75ARM1] single-board arm computer. The combination of these modules, with the support of my colleagues, provided the required computing power for autonomous functionality. Further details on the MOD-SX2-RS-8CH module can be found at [link: https://www.naii.com/Model/SC3], while information about the MOD-SX2-DA5-4CH module is available at [link: https://www.naii.com/Model/DA5].
+
+The configuration process, with guidance from my mentors, was an essential phase, although it presented several challenges. Flashing the board with firmware, programming the Infineon chips through I2C, configuring the main ZYNQ arm chip via SERIAL, and setting up the general-purpose FPGAs demanded meticulous attention. Additionally, formatting the onboard SATA chip and ensuring proper communication among the modules, with the assistance of my colleagues, were prerequisites for a successful implementation.
+
+With the support and advice of my mentors, functionality testing was conducted to verify the project's viability. The Lidar integration with the SC3 module, as guided by my mentors, demonstrated successful communication, and the MOD-SX2-DA5-4CH, with the assistance of my colleagues, effectively operated the motor within the predefined parameters, validating the proof of concept.
+
+Developing the XILINX SDK for the ZYNQ 7015 chip posed a challenge, necessitating logins, licenses, and access to the NAI software library and dependencies. Nevertheless, with the assistance of my mentors and colleagues, a functional workspace was established, allowing access to the required source files and enabling effective coding for the modules and ZYNQ chip.
+
