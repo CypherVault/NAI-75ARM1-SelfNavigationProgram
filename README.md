@@ -9,7 +9,7 @@ In this portfolio project, I focused on exploring the practical applications of 
 
 Module selection was critical for successful implementation. With guidance from mentors and input from colleagues, I chose the MOD-SX2-RS-8CH and MOD-SX2-DA5-4CH modules, integrated into the 75ARM1 single-board arm computer. The combination of these modules provided the required computing power for autonomous functionality.
 
-Further details on the 75ARM1 can be found [here](https://www.naii.com/Model/75ARM1), MOD-SX2-RS-8CH module can be found [here](https://www.naii.com/Model/SC3), while information about the MOD-SX2-DA5-4CH module is available [here](https://www.naii.com/Model/DA5).
+Further details on the 75ARM1 can be found [here](https://www.naii.com/Model/75ARM1), and details for the MOD-SX2-RS-8CH module can be found [here](https://www.naii.com/Model/SC3), while information about the MOD-SX2-DA5-4CH module is available [here](https://www.naii.com/Model/DA5).
 
 ## Configuration Process
 
