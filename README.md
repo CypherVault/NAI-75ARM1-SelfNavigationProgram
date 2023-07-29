@@ -13,7 +13,7 @@ Further details on the 75ARM1 can be found [here](https://www.naii.com/Model/75A
 
 ## Configuration Process
 
-The configuration process was an essential phase of the project, albeit with its challenges. With the guidance of my mentors, I successfully navigated through tasks such as flashing the board with firmware, programming the Infineon chips through I2C, configuring the main ZYNQ arm chip via SERIAL, and setting up general-purpose FPGAs. Additionally, formatting the onboard SATA chip and ensuring proper communication among the modules, with the assistance of my colleagues, were prerequisites for a successful implementation.
+The configuration process was an essential phase of the project, albeit with its challenges. I successfully navigated through tasks such as flashing the board with firmware, programming the Infineon chips through I2C, configuring the main ZYNQ arm chip via SERIAL, and setting up general-purpose FPGAs. Additionally, formatting the onboard SATA chip and ensuring proper communication among the modules and the external IO pins were prerequisites for a successful implementation.
 
 ## Functionality Testing
 
