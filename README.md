@@ -1,5 +1,5 @@
 # NAI-75ARM1-SelfNavigationProgram
-Summer 2023 Intern Project Archive
+Summer 2023 Intern Project Archive - for SBU Internship credit proof and documentation.
 
 # Lidar-Based Autonomous Driving Project
 
