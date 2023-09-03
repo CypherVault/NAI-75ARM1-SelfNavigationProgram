@@ -32,7 +32,11 @@ Assistance given: Board / Module FIrmware prep, Inspiration, Hardware Reccomenda
 
 ## NAI's Configurable Hardware Architecture (COSA)
 
-The significance of NAI's configurable hardware architecture, COSA, was underscored throughout the project. It offered numerous options for tailoring solutions to specific project requirements, showcasing the flexibility and versatility of NAI's product line. The compact form factor of the project was also very impressive and only possible thank to our design philosophy.
+The significance of NAI's configurable hardware architecture, COSA, was underscored throughout the project.
+
+COSA, as per NAI's website is described as: "A massively configurable, modular, intelligent approach offering unmatched breadth and scalability. COSA supports a wide range of complex and time-critical requirements in a distributed, intelligent, software-driven architecture that allows you to rethink the way you engineer power-critical and I/O-intensive mission systems."
+
+As such, it offered numerous options for tailoring solutions to specific project requirements, showcasing the flexibility and versatility of NAI's product line. The compact form factor of the project was also very impressive and only possible thank to our design philosophy.
 
 ## Conclusion
 
